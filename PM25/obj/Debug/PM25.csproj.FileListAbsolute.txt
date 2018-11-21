@@ -1,0 +1,10 @@
+D:\PM25\PM25\obj\Debug\PM25.csprojAssemblyReference.cache
+D:\PM25\PM25\obj\Debug\PM25.Form1.resources
+D:\PM25\PM25\obj\Debug\PM25.Properties.Resources.resources
+D:\PM25\PM25\obj\Debug\PM25.csproj.GenerateResource.cache
+D:\PM25\PM25\obj\Debug\PM25.csproj.CoreCompileInputs.cache
+D:\PM25\PM25\bin\Debug\PM25.exe.config
+D:\PM25\PM25\bin\Debug\PM25.exe
+D:\PM25\PM25\bin\Debug\PM25.pdb
+D:\PM25\PM25\obj\Debug\PM25.exe
+D:\PM25\PM25\obj\Debug\PM25.pdb
